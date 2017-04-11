@@ -46,6 +46,6 @@ in a terminal.
 
 ---
 
-*For the [Discord Insoumis](http://discord.insoumis.online/) — Copyright © 2017
- Crudités, distributed under the
+*For the [Discord Insoumis](http://discord.insoumis.online/)
+ — Copyright © 2017 Crudités, distributed under the
  [MIT license](https://tldrlegal.com/license/mit-license).* 
